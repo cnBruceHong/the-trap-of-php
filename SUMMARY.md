@@ -4,7 +4,7 @@
 
 ## 变量
 
-* 命名
+* [命名](bian-liang/ming-ming.md)
 
 ## 运算符
 
@@ -12,5 +12,5 @@
 
 ## 流程与逻辑
 
-* [1](liu-cheng-yu-luo-ji/1.md)
+* [index 0 去哪了](liu-cheng-yu-luo-ji/1.md)
 
